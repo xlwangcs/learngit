@@ -1,11 +1,11 @@
 1. blog
-	1£© Quake-III-Arena 
-	Ïà¹Ø£ºioquake https://ioquake3.org/ £¨github¿ªÔ´£©
+	1ï¼‰ Quake-III-Arena 
+	ç›¸å…³ï¼šioquake https://ioquake3.org/ ï¼ˆgithubå¼€æºï¼‰
 	http://discourse.ioquake.org/   
-	http://discourse.ioquake.org/t/essential-links-for-beginners/396 £¨±àÒëIoQuake3ÏîÄ¿Ïà¹Ø£©
-	Âõ¿Ë¶û¡¤ÑÇ²®À­Ê²£¨Michael Abrash£©£º http://fabiensanglard.net/quake3/index.php
-	Ô¼º²¡¤¿¨Âí¿Ë£¨John Carmack£©£º  http://bitandliteracy.github.io/game-hacker 
+	http://discourse.ioquake.org/t/essential-links-for-beginners/396 ï¼ˆç¼–è¯‘IoQuake3é¡¹ç›®ç›¸å…³ï¼‰
+	è¿ˆå…‹å°”Â·äºšä¼¯æ‹‰ä»€ï¼ˆMichael Abrashï¼‰ï¼š http://fabiensanglard.net/quake3/index.php
+	çº¦ç¿°Â·å¡é©¬å…‹ï¼ˆJohn Carmackï¼‰ï¼š  http://bitandliteracy.github.io/game-hacker 
 								   http://bitandliteracy.github.io/idea-generation
 								   
-    ÅÁ¶ûÄ¬¡¤Âå»ù£¨Palmer Luckey£©£ºOculus ´´Ê¼ÈË
+    å¸•å°”é»˜Â·æ´›åŸºï¼ˆPalmer Luckeyï¼‰ï¼šOculus åˆ›å§‹äºº
 2. books
